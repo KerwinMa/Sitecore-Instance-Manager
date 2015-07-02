@@ -1,0 +1,11 @@
+*.suo
+*.user
+src/SIM.Core.TestHelpers/bin/
+src/SIM.Core.TestHelpers/obj/
+src/SIM.Core.Tests/bin/
+src/SIM.Core.Tests/obj/
+src/SIM.Core/bin/
+src/SIM.Core/obj/
+src/SIM/bin/
+src/SIM/obj/
+src/packages/
